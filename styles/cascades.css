@@ -49,6 +49,16 @@ nav a {
     color: white;
 }
 
-nav ul {
-    
+nav a:hover {
+    background-color: #344e5f;
+}
+
+footer {
+    color: white;
+    padding:9px;
+    background-color: rgba(68, 165, 181, 0.8);
+}
+
+footer p {
+    font-size:10px;
 }
